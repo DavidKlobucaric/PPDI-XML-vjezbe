@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student>
+    <ime>Marko</ime>
+    <prezime>Maričić</prezime>
+    <JMBG>0246161923</JMBG>
+    <DatumRođenja>2005-07-24</DatumRođenja>
+    <GodinaStudija>2</GodinaStudija>
+    <StudijskiProgram>Informatički dizajn</StudijskiProgram>
+    
+    <adresa>
+        <Ulica>Stjepan Radića 21</Ulica>
+        <Grad>Zagreb</Grad>
+        <PoštanskiBroj>10000</PoštanskiBroj>
+    </adresa>
+    
+
+</student>

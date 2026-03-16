@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Marko</ime>
+    <prezime>Maričić</prezime>
+    <JMBG>0246161923</JMBG>
+    <DatumRođenja>2005-04-21</DatumRođenja>
+    <GodinaStudija>2</GodinaStudija>
+    <kontakt>
+         <email>markoM@gmail.com</email>
+         <telefon>0912131512</telefon>
+    </kontakt>
+    <kolegiji>
+        <kolegij>
+            <naziv>Grafički dizajn</naziv>
+            <imeProfesora>Matko Stipanović</imeProfesora>
+            <ECTS>4</ECTS>
+        </kolegij>
+
+        <kolegij>
+            <naziv>Elektronički sustavi</naziv>
+            <imeProfesora>Ivana Duvnjak</imeProfesora>
+            <ECTS>6</ECTS>
+        </kolegij>
+
+        <kolegij>
+            <naziv>Matematika 2</naziv>
+            <imeProfesora>Dalibor Matković</imeProfesora>
+            <ECTS>8</ECTS>
+        </kolegij>
+    </kolegiji>
+    
+</student>
