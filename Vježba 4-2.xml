@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="narudzba.xsd">
+
+  <idNarudzbe>1001</idNarudzbe>
+  <datumNarudzbe>2024-05-15</datumNarudzbe>
+
+  <kupac>
+    <ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+    <email>ivan.horvat@email.com</email>
+  </kupac>
+
+  <stavka>
+    <nazivProizvoda>Laptop Dell XPS</nazivProizvoda>
+    <kolicina>3</kolicina>
+    <cijena valuta="EUR">899.99</cijena>
+  </stavka>
+
+  <statusNarudzbe>u_obradi</statusNarudzbe>
+
+</narudzba>
