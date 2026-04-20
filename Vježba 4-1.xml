@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:noNamespaceSchemaLocation="osoba.xsd">
+    <ime>Marija</ime>
+    <cijena>189.99</cijena>
+    <godine>21</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>1991-06-12</datumRodjenja>
+    <vrijemePocetka>07:30:00</vrijemePocetka>
+</osoba>
